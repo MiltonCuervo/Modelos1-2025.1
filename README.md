@@ -9,3 +9,7 @@ Ingenieria de sistemas
 
 # Entrega 2
 Video: https://youtu.be/1JPG6VYCR4g
+
+
+# Entrega final
+Video: https://youtu.be/revsb-3rvno
